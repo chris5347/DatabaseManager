@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\bin\Debug\CRMApp.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\bin\Debug\CRMApp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\bin\Debug\CRMApp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.editColumn.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.Common.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CRMApp\CRMApp\obj\Debug\CRMApp.csprojResolveAssemblyReference.cache
